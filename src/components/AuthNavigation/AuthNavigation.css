@@ -1,0 +1,9 @@
+.button-container {
+  margin-top: 10%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.navigation-title {
+  color: slategray;
+}

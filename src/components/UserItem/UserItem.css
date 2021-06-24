@@ -1,0 +1,14 @@
+.main-container {
+  width: 55%;
+  margin: 0 auto;
+  color: royalblue;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 15px;
+}
+
+.main-image {
+  width: 70px;
+  height: 70px;
+}
